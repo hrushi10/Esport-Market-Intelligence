@@ -1,0 +1,23 @@
+Sprint 1:
+
+At the end of Sprint 1, the app should only do the following:
+
+Home page:
+
+Esports Market Intelligence
+
+System Status
+
+Frontend
+
+Backend
+
+Database
+
+API Version
+
+Last Deployment
+
+Project Roadmap
+
+Architecture
